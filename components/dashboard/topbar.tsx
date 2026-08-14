@@ -1,6 +1,6 @@
 'use client'
 
-import { Bell, HelpCircle, Settings, Menu } from 'lucide-react'
+import { Bell, Circle as HelpCircle, Settings, Menu } from 'lucide-react'
 import { Button } from '@/components/ui/button'
 import { Progress } from '@/components/ui/progress'
 import { formatCurrency } from '@/lib/trevopay-data'
